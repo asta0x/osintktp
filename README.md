@@ -25,4 +25,4 @@ cd osint-ktp
 # Install dependencies
 pip install requests colorama
 
-python3 osintktp.py
+python3 osintktp.pyc
