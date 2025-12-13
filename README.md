@@ -13,6 +13,10 @@ Tool Python untuk validasi dan analisis NIK (Nomor Induk Kependudukan) Indonesia
 - 📊 Ekstraksi informasi dari NIK
 - 💾 Ekspor hasil ke file
 
+📸 Screenshots
+Tampilan Utama
+https://images/main_menu.png
+
 ## 🚀 Instalasi
 ```bash
 # Clone repository
@@ -23,5 +27,3 @@ cd osint-ktp
 pip install requests colorama
 
 python3 osintktp.py
-
-
