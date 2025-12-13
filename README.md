@@ -13,8 +13,8 @@ Tool Python untuk validasi dan analisis NIK (Nomor Induk Kependudukan) Indonesia
 - 📊 Ekstraksi informasi dari NIK
 - 💾 Ekspor hasil ke file
 
-📸 Screenshots
-![alt text](?raw=true)
+## 📸 Screenshots
+![alt text](https://github.com/asta0x/osintktp/blob/main/images/main_menu.jpg?raw=true)
 
 ## 🚀 Instalasi
 ```bash
