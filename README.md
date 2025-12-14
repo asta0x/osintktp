@@ -34,4 +34,4 @@ cd osintktp
 
 pip install requests colorama
 
-python osintktp.pyc
+python osintktp.py
