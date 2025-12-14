@@ -28,7 +28,6 @@ pkg install python
 
 pip install cryptography
 
-# Clone repository
 git clone https://github.com/asta0x/osintktp.git
 
 cd osintktp
