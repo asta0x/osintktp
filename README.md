@@ -18,11 +18,22 @@ Tool Python untuk validasi dan analisis NIK (Nomor Induk Kependudukan) Indonesia
 
 ## 🚀 Instalasi
 ```bash
+pkg update
+
+pkg upgrade
+
+pkg install git
+
+pkg install python
+
+pip install cryptography
+
 # Clone repository
 git clone https://github.com/asta0x/osintktp.git
+
 cd osintktp
 
-# Install dependencies
+
 pip install requests colorama
 
 python3 osintktp.pyc
