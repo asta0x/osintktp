@@ -22,9 +22,11 @@ pkg update
 
 pkg upgrade
 
-pkg install git
-
 pkg install python
+
+pkg install python-cryptography -y
+
+pkg install git
 
 pip install cryptography
 
@@ -34,4 +36,4 @@ cd osintktp
 
 pip install requests colorama
 
-python3 osintktp.pyc
+python osintktp.pyc
