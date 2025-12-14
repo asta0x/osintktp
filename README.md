@@ -32,7 +32,6 @@ git clone https://github.com/asta0x/osintktp.git
 
 cd osintktp
 
-
 pip install requests colorama
 
 python3 osintktp.pyc
