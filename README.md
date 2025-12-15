@@ -26,6 +26,8 @@ pkg install python
 
 pkg install python-cryptography -y
 
+pip install pycryptodome --no-build-isolation
+
 pkg install git
 
 git clone https://github.com/asta0x/osintktp.git
