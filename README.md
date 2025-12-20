@@ -26,7 +26,9 @@ pkg install python
 
 pkg install python-cryptography -y
 
-pip install pycryptodome --no-build-isolation
+pkg install clang make openssl libffi
+
+pip install pycryptodome
 
 pkg install git
 
