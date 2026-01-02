@@ -32,7 +32,7 @@ pip install pycryptodome
 
 pkg install git
 
-git clone https://github.com/asta0x/osintktp.git
+git clone https://github.com/Tenkxzz/osintktp.git
 
 cd osintktp
 
